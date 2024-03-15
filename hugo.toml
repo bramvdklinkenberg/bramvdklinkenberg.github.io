@@ -1,0 +1,4 @@
+baseURL = 'https://bramvdklinkenberg.github.io'
+languageCode = 'en-us'
+title = 'That Azure Dude'
+theme = 'github-style'
